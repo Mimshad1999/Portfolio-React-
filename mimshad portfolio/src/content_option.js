@@ -12,7 +12,7 @@ const introdata = {
         second: "I code cool websites",
         third: "I developed Machine Learning Projects",
     },
-    // description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+
     your_img_url: "https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-cyber-gamer_117038-7605.jpg",
 };
 
@@ -25,16 +25,7 @@ const worktimeline = [{
         where: "Salahkaar Consultant",
         date: "2024",
     },
-    // {
-    //     jobtitle: "Designer of week",
-    //     where: "Jamalya",
-    //     date: "2019",
-    // },
-    // {
-    //     jobtitle: "Designer of week",
-    //     where: "ALquds",
-    //     date: "2019",
-    // },
+    
 ];
 
 const skills = [{
@@ -60,17 +51,14 @@ const skills = [{
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Bachelors Of technology(Computer Science)",
+        description: "Jamia Hmadard (New Delhi).",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Diploma in(Electronics Engineering ",
+        description: "Jamia Millia Islamia (New Delhi).",
     },
-    {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
+    
 ];
 
 const dataportfolio = [{
@@ -83,37 +71,7 @@ const dataportfolio = [{
         description: "This project analyzes the Titanic dataset to gain insights into survival factors during the Titanic disaster",
         link: "https://github.com/Mimshad1999/Titanic_Survival_prediction",
     },
-    // {
-    //     img: "https://picsum.photos/400/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://picsum.photos/400/600/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://picsum.photos/400/300/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://picsum.photos/400/700/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-
-    // {
-    //     img: "https://picsum.photos/400/600/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://picsum.photos/400/300/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
+    
      {
         img: "https://www.healthworkscollective.com/wp-content/uploads/2021/03/shutterstock_1512490073-scaled.jpg",
         description: "The Doctor Recommmendation System based on their diseas.",
@@ -129,19 +87,14 @@ const dataportfolio = [{
         description: "Airlines-Data-Analysis-using-SQL-and-Python",
         link: "https://github.com/Mimshad1999/Data-Analysis-",
     },
-    // {
-    //     img: "https://picsum.photos/400/700/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
+    
 ];
 
 const contactConfig = {
     YOUR_EMAIL: "mimshadalam1999@gmail.com",
     YOUR_FONE: "7903666575",
     description: "Highly motivated and detail-oriented Computer Science graduate seeking an entry-level position in Software developer and im working as Software developer intern in salakhar consultant. ",
-    // creat an emailjs.com account 
-    // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
+    
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
     YOUR_USER_ID: "user_id",
@@ -151,7 +104,7 @@ const socialprofils = {
     github: "https://github.com/Mimshad1999",
     facebook: "https://www.facebook.com/mimshad.alam.58?mibextid=ZbWKwL",
     linkedin: "https://www.linkedin.com/in/mimshad-alam-995a20230/",
-    // twitter: "https://twitter.com",
+   
 };
 export {
     meta,
